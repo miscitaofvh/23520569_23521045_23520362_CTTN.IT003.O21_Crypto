@@ -12,7 +12,7 @@ int main()
         if (v < 'N') v += 13; 
             else v -= 13;
 
-    cout << password << en
+    cout << password << endl;
     
     return 0;
 }
