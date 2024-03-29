@@ -1,9 +1,7 @@
 // sun's code
 
 #include <bits/stdc++.h>
-
 using namespace std;
-
 string password;
 
 int main()
@@ -14,7 +12,7 @@ int main()
         if (v < 'N') v += 13; 
             else v -= 13;
 
-    cout << password << endl;
+    cout << password << en
     
     return 0;
 }
